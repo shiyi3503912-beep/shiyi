@@ -1,0 +1,27 @@
+# ---- 操作系统 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- 编辑器 / IDE ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ---- Node ----
+node_modules/
+npm-debug.log*
+
+# ---- 构建产物 / 临时文件 ----
+dist/
+build/
+*.log
